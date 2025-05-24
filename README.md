@@ -1,3 +1,3 @@
 # MovieLensProject
-#Simulated sales data from MovieLens
-#Tools used: Power BI, Excel
+Simulated sales data from MovieLens <P>
+Tools used: Power BI, Excel
