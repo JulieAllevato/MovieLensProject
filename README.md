@@ -1,5 +1,5 @@
 # MovieLensProject
-Simulated sales data from MovieLens <P>
+Simulated sales data from MovieLens. Screenshots from project can be found below for quick review. <P>
 Tools used: Power BI, Excel <P>
 <b>Page 1 <P>
 ![Page 1](https://github.com/user-attachments/assets/ec4406a9-7956-4159-9c19-27036e7c2ed9)
